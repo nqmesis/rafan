@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	font-family: "Nunito Sans", sans-serif;
+}
+.reg{
+	color: blue;
+}
+.reg span{
+	color: orangered;
+
+}
+#btn{
+	color: white;
+	background: linear-gradient(red,yellow);
+	font-size: 18px;
+	padding: 5px;
+}
+input[type="text"]{
+	width: 250px;
+	height: 30px;
+	font-size: 15px;
+	border-radius: 10px;
+	border-radius: 3px solid green;
+
+}
